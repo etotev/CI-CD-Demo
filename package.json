@@ -1,0 +1,22 @@
+{
+  "name": "ci-cd-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/etotev/CI-CD-Demo.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/etotev/CI-CD-Demo/issues"
+  },
+  "homepage": "https://github.com/etotev/CI-CD-Demo#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0"
+  }
+}
